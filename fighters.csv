@@ -1,0 +1,8 @@
+name,class,health,strength,defense,stamina,critchance,critmult,sprite,sprite_scale,speed,evasion,stamina_regen,stamina_light,stamina_heavy
+Los Buddyachos,Always Wins,999999999999.0,999999999999,999999999999,999999999999,0.99,999.9,buddyachos.png,2.0,50,0.125,1000,200,750
+Banana Brute,Numero Uno,20000000.0,3250000,100000,6700,0.2,8.5,bananabrute.png,5.0,35,0.025,400,200,750
+Reze,Numero Dos,18550000.0,2000000,290000,20000,0.55,10.0,reze.png,1.5,75,0.2,1300,200,750
+Mr. I Hate Plants All Plants Should Die,Numero Tres,50000000.0,1400000,310000,10000,0.05,99.9,edgar.png,5.0,50,0.085,950,200,750
+Don Frye²,Numero Dos,5000000.0,3000000,10000,10000,0.25,9999.9,thragg.webp,2.5,75,0.2,1300,200,750
+Big Boom,Numero Dos,1.0,999999999999,1,10000,0.001,1e+30,hector.png,2.0,75,0.2,1300,200,750
+Sunflower,Numero Tres,16767676.7,1690000,300000,100000000,0.85,50.0,sunflower.png,2.0,50,0.085,950,200,750

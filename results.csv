@@ -1,0 +1,258 @@
+battle_id,fighter1,fighter2,winner,loser,winner_hp,turns,total_damage_winner,total_damage_loser,total_misses,total_dodges,crits_winner,crits_loser,timestamp
+1,Banana Brute,Reze,Banana Brute,Reze,880,24,1089,0,0,0,0,0,2026-06-26 13:44:48
+1,Banana Brute,Reze,Reze,Banana Brute,477,13,1013,453,0,0,1,0,2026-06-26 13:52:28
+1,Banana Brute,Reze,Reze,Banana Brute,156,16,912,774,0,0,0,0,2026-06-26 13:53:11
+2,Mike Tyson,Reze,Reze,Mike Tyson,510,9,1380,420,0,0,0,0,2026-06-26 13:53:26
+3,Reze,Monster Garou,Reze,Monster Garou,375,11,1111,555,0,0,1,0,2026-06-26 13:53:43
+1,Reze,Monster Garou,Reze,Monster Garou,127,16,1127,763,0,0,0,0,2026-06-26 13:55:47
+2,Reze,Monster Garou,Reze,Monster Garou,134,16,1150,756,1,1,0,0,2026-06-26 13:56:08
+1,Reze,Monster Garou,Monster Garou,Reze,179,12,974,911,0,0,2,0,2026-06-26 13:59:57
+1,Reze,Monster Garou,Monster Garou,Reze,85,15,944,1005,0,0,0,0,2026-06-26 14:00:42
+1,Monster Garou,Reze,Reze,Monster Garou,13,16,1162,877,1,1,0,0,2026-06-26 14:03:00
+2,Monster Garou,Reze,Reze,Monster Garou,128,15,1156,762,0,0,0,0,2026-06-26 14:03:21
+1,Reze,Monster Garou,Reze,Monster Garou,90,16,1129,805,0,0,0,0,2026-06-26 14:05:06
+2,Reze,Banana Brute,Banana Brute,Reze,673,20,934,607,0,0,0,0,2026-06-26 14:05:33
+3,Banana Brute,Mike Tyson,Banana Brute,Mike Tyson,455,13,1202,825,0,0,0,0,2026-06-26 14:05:52
+4,Banana Brute,Monster Garou,Banana Brute,Monster Garou,704,14,1358,576,1,1,1,2,2026-06-26 14:06:11
+1,Banana Brute,Reze,Reze,Banana Brute,220,21,1317,755,0,0,1,0,2026-06-26 14:11:28
+2,Banana Brute,Reze,Reze,Banana Brute,285,19,1305,690,0,0,3,0,2026-06-26 14:11:53
+1,Reze,Banana Brute,Reze,Banana Brute,192,18,1297,783,0,0,1,0,2026-06-26 14:12:58
+2,Banana Brute,Mike Tyson,Banana Brute,Mike Tyson,181,13,1200,1099,0,0,0,0,2026-06-26 14:13:17
+3,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,92,17,1209,1188,2,2,0,0,2026-06-26 14:13:44
+1,Banana Brute,Mike Tyson,Mike Tyson,Banana Brute,61,17,1292,1069,1,1,0,0,2026-06-26 14:14:48
+2,Mike Tyson,Reze,Reze,Mike Tyson,124,11,1251,851,0,0,0,0,2026-06-26 14:15:05
+3,Reze,Banana Brute,Reze,Banana Brute,47,23,1301,928,0,0,0,0,2026-06-26 14:15:35
+1,Reze,Banana Brute,Reze,Banana Brute,266,23,1280,709,1,1,1,0,2026-06-26 14:16:45
+2,Reze,Banana Brute,Banana Brute,Reze,95,24,1024,1185,1,1,0,0,2026-06-26 14:17:17
+3,Mike Tyson,Reze,Reze,Mike Tyson,375,9,1159,600,0,0,0,0,2026-06-26 14:17:35
+4,Mike Tyson,Reze,Reze,Mike Tyson,122,11,1248,853,0,0,1,0,2026-06-26 14:17:50
+1,Mike Tyson,Reze,Mike Tyson,Reze,76,11,1029,1054,0,0,0,0,2026-06-26 14:18:52
+2,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,585,12,1326,695,1,1,0,0,2026-06-26 14:19:09
+1,Mike Tyson,Banana Brute,Mike Tyson,Banana Brute,344,11,1368,786,0,0,1,0,2026-06-26 14:20:03
+2,Mike Tyson,Reze,Mike Tyson,Reze,69,11,1128,1061,0,0,0,0,2026-06-26 14:20:19
+3,Mike Tyson,Reze,Reze,Mike Tyson,146,12,1228,829,0,0,0,0,2026-06-26 14:20:36
+4,Reze,Banana Brute,Banana Brute,Reze,354,12,1113,926,0,0,1,0,2026-06-26 14:20:55
+1,Mike Tyson,Monster Garou,Mike Tyson,Monster Garou,145,12,1210,985,2,2,0,0,2026-06-26 14:21:18
+1,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,433,8,1312,657,0,0,2,0,2026-06-26 14:22:37
+2,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,444,8,1150,646,0,0,1,0,2026-06-26 14:22:49
+1,Monster Garou,Mike Tyson,Mike Tyson,Monster Garou,77,15,1222,1053,3,3,0,0,2026-06-26 14:23:56
+2,Monster Garou,Mike Tyson,Mike Tyson,Monster Garou,87,10,1151,1043,0,0,0,1,2026-06-26 14:24:10
+3,Monster Garou,Mike Tyson,Monster Garou,Mike Tyson,534,9,1236,556,1,1,1,0,2026-06-26 14:24:23
+4,Mike Tyson,Banana Brute,Mike Tyson,Banana Brute,31,13,1424,1099,0,0,0,0,2026-06-26 14:24:43
+5,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,97,12,1218,1183,0,0,0,0,2026-06-26 14:25:01
+6,Banana Brute,Reze,Banana Brute,Reze,135,15,1063,1145,0,0,0,1,2026-06-26 14:25:24
+1,Mike Tyson,Reze,Reze,Mike Tyson,287,10,1290,688,0,0,0,0,2026-06-26 14:26:40
+2,Reze,Monster Garou,Monster Garou,Reze,164,10,1057,926,1,1,1,1,2026-06-26 14:26:56
+3,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,416,9,1320,674,1,1,2,0,2026-06-26 14:27:10
+1,Mike Tyson,Banana Brute,Mike Tyson,Banana Brute,426,13,1327,764,1,1,0,0,2026-06-26 14:28:15
+1,Grimlock,Mike Tyson,Grimlock,Mike Tyson,609,7,1410,471,0,0,4,0,2026-06-26 14:35:32
+1,Grimlock,Mike Tyson,Grimlock,Mike Tyson,265,11,1164,815,0,0,5,0,2026-06-26 14:36:16
+1,Mike Tyson,Grimlock,Grimlock,Mike Tyson,740,4,1281,340,0,0,2,0,2026-06-26 14:37:10
+1,Mike Tyson,Grimlock,Grimlock,Mike Tyson,353,10,1196,727,0,0,1,0,2026-06-26 14:37:42
+2,Grimlock,Monster Garou,Grimlock,Monster Garou,416,12,1204,664,0,0,0,0,2026-06-26 14:37:59
+1,Grimlock,Monster Garou,Grimlock,Monster Garou,545,10,1180,535,1,1,1,1,2026-06-26 14:39:04
+1,Grimlock,Monster Garou,Grimlock,Monster Garou,704,6,1072,376,0,0,1,0,2026-06-26 14:39:56
+1,Grimlock,Monster Garou,Monster Garou,Grimlock,221,11,1154,849,0,0,2,1,2026-06-26 14:40:36
+2,Grimlock,Monster Garou,Monster Garou,Grimlock,310,14,1085,760,0,0,0,1,2026-06-26 14:40:55
+1,Monster Garou,Grimlock,Monster Garou,Grimlock,447,12,1220,623,0,0,1,0,2026-06-26 14:41:30
+1,Monster Garou,Grimlock,Monster Garou,Grimlock,145,11,1161,925,0,0,1,1,2026-06-26 14:42:14
+2,Grimlock,Reze,Reze,Grimlock,521,10,1218,464,0,0,0,0,2026-06-26 14:42:30
+1,Grimlock,Reze,Reze,Grimlock,384,17,1229,601,1,1,0,0,2026-06-26 14:43:06
+1,Grimlock,Reze,Grimlock,Reze,659,6,1113,421,0,0,3,0,2026-06-26 14:43:49
+2,Grimlock,Reze,Grimlock,Reze,401,11,1094,679,1,1,1,1,2026-06-26 14:44:04
+1,Grimlock,Banana Brute,Grimlock,Banana Brute,8,19,1628,1072,0,0,1,0,2026-06-26 14:51:18
+1,Grimlock,Monster Garou,Grimlock,Monster Garou,647,12,1198,433,1,1,1,2,2026-06-26 14:53:50
+1,Grimlock,Monster Garou,Grimlock,Monster Garou,420,15,1103,660,0,0,0,1,2026-06-26 14:55:20
+1,Grimlock,Mike Tyson,Grimlock,Mike Tyson,309,13,1452,771,0,0,2,0,2026-06-26 14:56:08
+2,Grimlock,Banana Brute,Grimlock,Banana Brute,189,22,1567,891,1,1,1,0,2026-06-26 14:56:37
+3,Grimlock,Reze,Reze,Grimlock,337,14,1093,648,2,2,1,0,2026-06-26 14:56:57
+4,Grimlock,Reze,Grimlock,Reze,44,18,1349,1036,1,1,1,0,2026-06-26 14:57:20
+5,Reze,Mike Tyson,Reze,Mike Tyson,99,10,1157,886,0,0,0,0,2026-06-26 14:57:35
+6,Reze,Mike Tyson,Reze,Mike Tyson,301,10,1324,684,1,1,1,0,2026-06-26 14:57:49
+7,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,1239,4,1412,291,0,0,1,0,2026-06-26 14:58:08
+8,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,429,12,1333,1101,0,0,0,0,2026-06-26 14:59:25
+9,Banana Brute,Reze,Reze,Banana Brute,161,14,1554,824,0,0,0,0,2026-06-26 14:59:56
+10,Reze,Monster Garou,Reze,Monster Garou,269,11,1165,716,0,0,0,0,2026-06-26 15:00:13
+11,Reze,Mike Tyson,Reze,Mike Tyson,101,10,1394,884,0,0,0,0,2026-06-26 15:01:13
+12,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,341,12,1325,1189,0,0,0,0,2026-06-26 15:01:30
+13,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,197,11,1300,873,1,1,1,0,2026-06-26 15:01:46
+14,Mike Tyson,Grimlock,Grimlock,Mike Tyson,200,14,1229,880,0,0,0,0,2026-06-26 15:02:06
+1,Mike Tyson,Grimlock,Mike Tyson,Grimlock,103,15,1160,1037,0,0,0,1,2026-06-26 15:03:01
+2,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,164,12,1182,1366,0,0,0,0,2026-06-26 15:03:18
+3,Mike Tyson,Monster Garou,Mike Tyson,Monster Garou,162,10,1254,978,0,0,0,1,2026-06-26 15:03:35
+4,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,268,11,1568,802,1,1,1,0,2026-06-26 15:03:50
+5,Banana Brute,Reze,Reze,Banana Brute,441,10,1587,544,0,0,1,0,2026-06-26 15:04:22
+6,Banana Brute,Reze,Reze,Banana Brute,79,16,1621,906,0,0,0,0,2026-06-26 15:04:49
+7,Banana Brute,Mike Tyson,Banana Brute,Mike Tyson,341,12,1177,1189,0,0,0,0,2026-06-26 15:05:08
+8,Grimlock,Banana Brute,Banana Brute,Grimlock,15,25,1138,1515,0,0,0,2,2026-06-26 15:05:51
+9,Banana Brute,Mike Tyson,Mike Tyson,Banana Brute,185,13,1645,955,0,0,1,0,2026-06-26 15:07:21
+10,Banana Brute,Mike Tyson,Mike Tyson,Banana Brute,185,14,1584,955,0,0,0,0,2026-06-26 15:07:41
+11,Monster Garou,Reze,Reze,Monster Garou,277,11,1166,708,0,0,0,0,2026-06-26 15:08:02
+12,Monster Garou,Mike Tyson,Mike Tyson,Monster Garou,589,8,1169,551,0,0,0,0,2026-06-26 15:08:16
+13,Monster Garou,Banana Brute,Banana Brute,Monster Garou,391,14,1124,1139,0,0,0,1,2026-06-26 15:09:00
+14,Monster Garou,Grimlock,Grimlock,Monster Garou,169,13,1271,911,0,0,1,3,2026-06-26 15:09:20
+15,Monster Garou,Grimlock,Grimlock,Monster Garou,452,17,1170,628,1,1,0,0,2026-06-26 15:09:42
+1,Monster Garou,Reze,Monster Garou,Reze,256,10,988,814,0,0,0,0,2026-06-26 15:10:27
+2,Monster Garou,Reze,Monster Garou,Reze,71,14,1096,999,1,1,0,0,2026-06-26 15:10:46
+3,Reze,Grimlock,Grimlock,Reze,108,13,994,972,0,0,2,1,2026-06-26 15:11:06
+1,Reze,Banana Brute,Reze,Banana Brute,81,16,1707,904,0,0,0,0,2026-06-26 15:23:48
+1,Banana Brute,Mike Tyson,Mike Tyson,Banana Brute,70,14,1586,1070,0,0,0,0,2026-06-29 10:41:12
+1,Mike Tyson,Banana Brute,Banana Brute,Mike Tyson,160,12,1273,1370,0,0,0,0,2026-06-29 10:43:25
+2,Mike Tyson,Banana Brute,Mike Tyson,Banana Brute,12,13,1688,1128,0,0,0,0,2026-06-29 10:43:43
+3,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,398,8,1282,872,1,1,1,0,2026-06-29 10:43:57
+4,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,13,10,1141,1257,0,0,0,0,2026-06-29 10:44:11
+5,Reze,Grimlock,Grimlock,Reze,449,17,1069,631,0,0,0,0,2026-06-29 10:44:41
+1,Mike Tyson,Grimlock,Grimlock,Mike Tyson,243,12,1240,837,1,1,1,0,2026-06-29 10:45:31
+2,Mike Tyson,Grimlock,Grimlock,Mike Tyson,149,12,1334,931,1,1,0,0,2026-06-29 10:45:47
+3,Reze,Banana Brute,Reze,Banana Brute,445,10,1679,540,0,0,1,0,2026-06-29 10:48:57
+4,Reze,Banana Brute,Banana Brute,Reze,248,14,1120,1282,0,0,0,0,2026-06-29 10:49:16
+5,Reze,Banana Brute,Reze,Banana Brute,447,9,1630,538,0,0,1,0,2026-06-29 10:49:29
+6,Mike Tyson,Banana Brute,Mike Tyson,Banana Brute,104,13,1649,1036,1,1,0,0,2026-06-29 10:49:48
+1,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,849,7,1733,756,1,1,2,0,2026-07-02 10:54:06
+1,Mike Tyson,Monster Garou,Monster Garou,Mike Tyson,699,10,1506,706,1,1,0,0,2026-07-02 10:55:05
+2,Monster Garou,Reze,Monster Garou,Reze,399,10,1119,1006,0,0,0,0,2026-07-02 10:55:20
+3,Reze,Grimlock,Reze,Grimlock,381,5,1341,664,0,0,0,1,2026-07-02 10:55:30
+4,Grimlock,Mike Tyson,Mike Tyson,Grimlock,173,8,1453,1327,0,0,0,0,2026-07-02 10:55:45
+5,Banana Brute,Monster Garou,Banana Brute,Monster Garou,1441,17,1742,559,0,0,0,2,2026-07-02 10:56:12
+1,Banana Brute,Dr. Edgar Zomboss,Dr. Edgar Zomboss,Banana Brute,49760,3,2594,240,0,0,0,0,2026-07-02 11:18:41
+2,Banana Brute,Dr. Edgar Zomboss,Dr. Edgar Zomboss,Banana Brute,49761,3,2002,239,0,0,0,0,2026-07-02 11:18:49
+3,Monster Garou,Dr. Edgar Zomboss,Dr. Edgar Zomboss,Monster Garou,49896,2,1836,104,0,0,0,0,2026-07-02 11:19:36
+1,Tucker,Dr. Edgar Zomboss,Tucker,Dr. Edgar Zomboss,999999999979,1,99888311,0,0,0,1,0,2026-07-02 11:28:49
+2,Tucker,Dr. Edgar Zomboss,Tucker,Dr. Edgar Zomboss,999999999979,1,99888511,0,0,0,1,0,2026-07-02 11:28:55
+3,Scout,Banana Brute,Scout,Banana Brute,999999999979,1,159809790,0,0,0,1,0,2026-07-02 11:29:02
+4,Dr. Edgar Zomboss,Tucker,Tucker,Dr. Edgar Zomboss,999999999979,2,99888411,0,0,0,1,0,2026-07-02 11:29:26
+5,Dr. Edgar Zomboss,Tucker,Tucker,Dr. Edgar Zomboss,999999999979,2,99888611,0,0,0,1,0,2026-07-02 11:29:32
+6,Dr. Edgar Zomboss,Tucker,Tucker,Dr. Edgar Zomboss,999999999979,2,159822097,0,0,0,1,0,2026-07-02 11:29:40
+1,Dr. Edgar Zomboss,Thragg,Thragg,Dr. Edgar Zomboss,37039,4,314674,1541,1,1,1,0,2026-07-02 11:33:42
+2,Dr. Edgar Zomboss,Thragg,Thragg,Dr. Edgar Zomboss,37811,2,196731,769,0,0,1,0,2026-07-02 11:35:32
+3,Dr. Edgar Zomboss,Thragg,Thragg,Dr. Edgar Zomboss,37810,2,196751,770,0,0,1,0,2026-07-02 11:35:44
+4,Dr. Edgar Zomboss,Thragg,Thragg,Dr. Edgar Zomboss,37352,2,196751,1228,0,0,1,0,2026-07-02 11:35:49
+1,Thragg,Dr. Edgar Zomboss,Thragg,Dr. Edgar Zomboss,38580,1,288916,0,0,0,1,0,2026-07-02 11:37:03
+2,Thragg,Tucker,Tucker,Thragg,999999998945,2,159772227,1034,0,0,1,1,2026-07-02 11:37:16
+3,Thragg,Scout,Scout,Thragg,999999998965,2,99857842,1014,0,0,1,1,2026-07-02 11:37:26
+4,Thragg,Scout,Scout,Thragg,999999998419,2,99858042,1560,0,0,1,1,2026-07-02 11:37:35
+5,Thragg,Dr. Edgar Zomboss,Thragg,Dr. Edgar Zomboss,38580,1,180512,0,0,0,1,0,2026-07-02 11:37:42
+6,Banana Brute,Reze,Banana Brute,Reze,1486,10,1140,514,1,1,0,1,2026-07-02 11:38:25
+7,Reze,Grimlock,Reze,Grimlock,103,8,1402,942,0,0,0,0,2026-07-02 11:38:40
+1,Banana Brute,Los Buddyachos (Scout y Tucker),Los Buddyachos (Scout y Tucker),Banana Brute,999999999999,2,999899500049000,0,1,1,1,0,2026-07-02 15:01:08
+1,Banana Brute,Dr. Edgar Zomboss,Dr. Edgar Zomboss,Banana Brute,34285986,19,20100019,15714014,3,3,0,1,2026-07-02 15:13:31
+1,Banana Brute,Reze ,Banana Brute,Reze ,16400000,5,20047502,3600000,0,0,1,0,2026-07-02 15:15:44
+2,Banana Brute,Reze ,Reze ,Banana Brute,17064999,2,31999968,1485001,0,0,1,0,2026-07-02 15:16:02
+1,Banana Brute,Reze ,Reze ,Banana Brute,17065000,2,31999936,1485000,0,0,1,0,2026-07-02 15:17:51
+2,Banana Brute,Reze ,Reze ,Banana Brute,17065000,2,32000160,1485000,0,0,1,0,2026-07-02 15:17:56
+1,Banana Brute,Reze ,Reze ,Banana Brute,16464998,4,22039991,2085002,1,1,1,0,2026-07-02 15:18:21
+1,Banana Brute,Reze ,Reze ,Banana Brute,16464999,6,25840003,2085001,1,1,1,0,2026-07-02 15:19:46
+1,Banana Brute,Reze,Banana Brute,Reze,20000000,1,23460001,0,0,0,0,0,2026-07-02 15:20:10
+2,Reze,Dr. Edgar Zomboss,Reze,Dr. Edgar Zomboss,15663993,8,52390052,2886007,2,2,3,0,2026-07-02 15:20:24
+1,Banana Brute,Thragg,Banana Brute,Thragg,20000000,1,37983996,0,0,0,0,0,2026-07-02 15:25:24
+2,Banana Brute,Thragg,Banana Brute,Thragg,20000000,1,37983996,0,0,0,0,0,2026-07-02 15:25:32
+3,Banana Brute,Thragg,Banana Brute,Thragg,20000000,1,37984004,0,0,0,0,0,2026-07-02 15:25:35
+4,Banana Brute,Thragg,Banana Brute,Thragg,20000000,1,23740001,0,0,0,0,0,2026-07-02 15:26:14
+5,Banana Brute,Thragg,Banana Brute,Thragg,20000000,1,37984000,0,0,0,0,0,2026-07-02 15:26:20
+1,Banana Brute,Thragg,Thragg,Banana Brute,5000000,2,298997000000,0,1,1,1,0,2026-07-02 15:27:05
+2,Banana Brute,Thragg,Banana Brute,Thragg,20000000,1,23740002,0,0,0,0,0,2026-07-02 15:27:19
+3,Thragg,Los Buddyachos (Scout y Tucker),Los Buddyachos (Scout y Tucker),Thragg,999999999999,2,999899990001000,0,0,0,1,0,2026-07-02 15:27:29
+1,Los Buddyachos (Scout y Tucker),Banana Brute,Los Buddyachos (Scout y Tucker),Banana Brute,999999999999,1,999899900009000,0,0,0,1,0,2026-07-02 15:44:28
+1,Los Buddyachos (Scout y Tucker),Hector Salamanca,Los Buddyachos (Scout y Tucker),Hector Salamanca,999999999999,1,999899999998000,0,0,0,1,0,2026-07-02 16:03:47
+1,Hector Salamanca,Thragg (Don Frye x100),Hector Salamanca,Thragg (Don Frye x100),1,1,999999990000,0,0,0,0,0,2026-07-02 16:07:00
+2,Hector Salamanca,Thragg (Don Frye x100),Hector Salamanca,Thragg (Don Frye x100),1,1,999999990001,0,0,0,0,0,2026-07-02 16:07:18
+3,Hector Salamanca,Thragg (Don Frye x100),Hector Salamanca,Thragg (Don Frye x100),1,1,999999989998,0,0,0,0,0,2026-07-02 16:07:39
+4,Hector Salamanca,Thragg (Don Frye x100),Hector Salamanca,Thragg (Don Frye x100),1,1,1599999983995,0,0,0,0,0,2026-07-02 16:07:42
+1,Reze,Mr. I Hate Plants All Plants Should Die,Reze,Mr. I Hate Plants All Plants Should Die,13444002,11,57460045,5105998,0,0,3,0,2026-07-02 17:01:13
+2,Banana Brute,Reze,Banana Brute,Reze,20000000,1,199409991,0,0,0,1,0,2026-07-02 17:01:21
+3,Banana Brute,Reze,Banana Brute,Reze,20000000,1,37536003,0,0,0,0,0,2026-07-02 17:01:25
+4,Banana Brute,Don Frye²,Banana Brute,Don Frye²,20000000,1,23740001,0,0,0,0,0,2026-07-02 17:01:30
+5,Don Frye²,Banana Brute,Don Frye²,Banana Brute,5000000,1,29900001,0,0,0,0,0,2026-07-02 17:01:36
+6,Don Frye²,Big Boom,Don Frye²,Big Boom,5000000,1,29999999,0,0,0,0,0,2026-07-02 17:01:45
+7,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999997000,0,1,1,1,0,2026-07-02 17:01:52
+8,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,4,1599840000000000,0,2,2,1,0,2026-07-02 17:02:00
+9,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999999000,0,1,1,1,0,2026-07-02 17:02:05
+10,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999998000,0,1,1,1,0,2026-07-02 17:02:09
+11,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999992,4,999899999999000,7,1,1,1,0,2026-07-02 17:02:24
+12,Big Boom,Mr. I Hate Plants All Plants Should Die,Big Boom,Mr. I Hate Plants All Plants Should Die,1,1,1599999504003,0,0,0,0,0,2026-07-02 17:02:38
+13,Don Frye²,Banana Brute,Don Frye²,Banana Brute,5000000,1,47840004,0,0,0,0,0,2026-07-02 17:02:44
+14,Banana Brute,Big Boom,Banana Brute,Big Boom,20000000,1,201875008,0,0,0,1,0,2026-07-02 17:02:57
+15,Banana Brute,Mr. I Hate Plants All Plants Should Die,Banana Brute,Mr. I Hate Plants All Plants Should Die,16620000,4,222679991,3380000,0,0,1,0,2026-07-02 17:03:06
+16,Don Frye²,Reze,Don Frye²,Reze,5000000,1,297097038999,0,0,0,1,0,2026-07-02 17:03:14
+17,Reze,Don Frye²,Reze,Don Frye²,18550000,1,31840032,0,0,0,1,0,2026-07-02 17:03:18
+18,Reze,Don Frye²,Don Frye²,Reze,5000000,2,29709999,0,1,1,0,0,2026-07-02 17:03:23
+19,Reze,Don Frye²,Reze,Don Frye²,18550000,1,19900010,0,0,0,1,0,2026-07-02 17:03:26
+20,Reze,Don Frye²,Don Frye²,Reze,3009999,4,29709999,1990001,2,2,0,0,2026-07-02 17:03:33
+1,Mr. I Hate Plants All Plants Should Die,Big Boom,Mr. I Hate Plants All Plants Should Die,Big Boom,50000000,1,1399998,0,0,0,0,0,2026-07-03 09:16:46
+2,Big Boom,Mr. I Hate Plants All Plants Should Die,Big Boom,Mr. I Hate Plants All Plants Should Die,1,1,999999690001,0,0,0,0,0,2026-07-03 09:17:04
+3,Los Buddyachos,Big Boom,Los Buddyachos,Big Boom,999999999999,1,1599839999993600,0,0,0,1,0,2026-07-03 09:17:27
+4,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999998,2,999900000000000,1,0,0,1,0,2026-07-03 09:17:33
+5,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999998,4,999899999999000,1,1,1,1,0,2026-07-03 09:17:48
+6,Banana Brute,Reze,Banana Brute,Reze,13159993,5,23460000,6840007,1,1,0,0,2026-07-03 09:20:33
+1,Los Buddyachos,Sunflower,Los Buddyachos,Sunflower,999999999999,3,999899700028000,0,1,1,1,1,2026-07-03 09:40:04
+1,Banana Brute,Mr. I Hate Plants All Plants Should Die,Banana Brute,Mr. I Hate Plants All Plants Should Die,9339994,14,61740033,10660006,1,1,2,0,2026-07-03 10:16:39
+1,Los Buddyachos,Banana Brute,Los Buddyachos,Banana Brute,999999999999,1,999899900010999,0,0,0,1,0,2026-07-03 10:17:40
+1,Banana Brute,Don Frye²,Don Frye²,Banana Brute,1759998,2,28999719999,3240002,0,0,1,0,2026-07-03 10:41:11
+2,Banana Brute,Don Frye²,Banana Brute,Don Frye²,20000000,1,27540017,0,0,0,1,0,2026-07-03 10:41:18
+3,Banana Brute,Don Frye²,Don Frye²,Banana Brute,1760001,3,29004340004,3239999,0,0,1,0,2026-07-03 10:41:24
+4,Banana Brute,Don Frye²,Don Frye²,Banana Brute,5000000,3,29002610002,0,1,1,1,0,2026-07-03 10:41:55
+5,Banana Brute,Don Frye²,Don Frye²,Banana Brute,1759998,2,46399488000,3240002,0,0,1,0,2026-07-03 10:42:00
+1,Banana Brute,Mr. I Hate Plants All Plants Should Die,Banana Brute,Mr. I Hate Plants All Plants Should Die,2839992,21,50274021,17160008,0,0,1,0,2026-07-03 10:44:30
+2,Banana Brute,Don Frye²,Banana Brute,Don Frye²,20000000,1,27539991,0,0,0,1,0,2026-07-03 10:44:37
+3,Banana Brute,Don Frye²,Don Frye²,Banana Brute,5000000,2,28999710000,0,1,1,1,0,2026-07-03 10:44:42
+4,Banana Brute,Don Frye²,Banana Brute,Don Frye²,20000000,1,5183995,0,0,0,0,0,2026-07-03 10:44:46
+5,Banana Brute,Don Frye²,Don Frye²,Banana Brute,5000000,2,46399551999,0,1,1,1,0,2026-07-03 10:44:50
+6,Banana Brute,Don Frye²,Don Frye²,Banana Brute,1760001,2,46399615999,3239999,0,0,1,0,2026-07-03 10:44:55
+7,Banana Brute,Don Frye²,Banana Brute,Don Frye²,7819998,5,6480002,12180002,0,0,0,0,2026-07-03 10:45:03
+8,Reze,Sunflower,Reze,Sunflower,18550000,1,17000010,0,0,0,1,0,2026-07-03 10:45:13
+9,Reze,Sunflower,Reze,Sunflower,18550000,1,17000000,0,0,0,1,0,2026-07-03 10:45:17
+10,Reze,Sunflower,Reze,Sunflower,18550000,1,27200064,0,0,0,1,0,2026-07-03 10:45:24
+1,Reze,Sunflower,Reze,Sunflower,18550000,1,17000010,0,0,0,1,0,2026-07-03 10:50:14
+1,Reze,Sunflower,Sunflower,Reze,14047681,2,69999950,2719995,0,0,1,0,2026-07-03 10:51:48
+2,Reze,Sunflower,Reze,Sunflower,18550000,1,17000000,0,0,0,1,0,2026-07-03 10:51:56
+3,Reze,Sunflower,Reze,Sunflower,18550000,1,27199968,0,0,0,1,0,2026-07-03 10:51:59
+4,Reze,Sunflower,Sunflower,Reze,16767676,2,69999950,0,1,1,1,0,2026-07-03 10:52:03
+5,Banana Brute,Don Frye²,Banana Brute,Don Frye²,20000000,1,27539991,0,0,0,1,0,2026-07-03 10:52:55
+6,Banana Brute,Don Frye²,Don Frye²,Banana Brute,5000000,4,29005530001,0,1,1,1,0,2026-07-03 10:53:04
+7,Banana Brute,Don Frye²,Banana Brute,Don Frye²,20000000,1,5184008,0,0,0,0,0,2026-07-03 10:53:07
+8,Banana Brute,Don Frye²,Don Frye²,Banana Brute,1759998,2,28999719999,3240002,0,0,1,0,2026-07-03 10:53:12
+9,Banana Brute,Don Frye²,Don Frye²,Banana Brute,5000000,2,46399488000,0,1,1,1,0,2026-07-03 10:53:19
+10,Banana Brute,Don Frye²,Banana Brute,Don Frye²,7819999,5,8423997,12180001,0,0,0,0,2026-07-03 10:53:26
+11,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999998000,0,1,1,1,0,2026-07-03 10:53:52
+12,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,1599840000004799,0,1,1,1,0,2026-07-03 10:54:00
+13,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999999000,0,0,0,1,0,2026-07-03 10:54:07
+14,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999997000,0,1,1,1,0,2026-07-03 10:54:11
+15,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999997000,0,0,0,1,0,2026-07-03 10:54:15
+16,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999999000,0,0,0,1,0,2026-07-03 10:54:59
+17,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999997,2,999899999997000,2,0,0,1,0,2026-07-03 10:55:03
+18,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999995,4,999899999997000,4,1,1,1,0,2026-07-03 10:55:15
+19,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999999000,0,0,0,1,0,2026-07-03 10:55:25
+20,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999998000,0,0,0,1,0,2026-07-03 10:55:30
+21,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999991,2,999899999999000,8,0,0,1,0,2026-07-03 10:55:40
+22,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999998000,0,1,1,1,0,2026-07-03 10:55:47
+23,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999997000,0,0,0,1,0,2026-07-03 10:55:52
+24,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,4,999899999997000,0,2,2,1,0,2026-07-03 10:55:58
+25,Mr. I Hate Plants All Plants Should Die,Reze,Reze,Mr. I Hate Plants All Plants Should Die,17440001,5,50700030,1109999,1,1,3,0,2026-07-03 10:56:33
+26,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,999999989999,0,0,0,0,0,2026-07-03 10:57:00
+27,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,999999989998,0,0,0,0,0,2026-07-03 10:57:03
+28,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,999999989999,0,0,0,0,0,2026-07-03 10:57:07
+29,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,999999990000,0,0,0,0,0,2026-07-03 10:57:12
+30,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,999999990001,0,0,0,0,0,2026-07-03 10:57:15
+31,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,999999990001,0,0,0,0,0,2026-07-03 10:57:18
+32,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,1599999984004,0,0,0,0,0,2026-07-03 10:57:21
+33,Big Boom,Don Frye²,Don Frye²,Big Boom,5000000,2,4799996,0,1,1,0,0,2026-07-03 10:57:25
+34,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,999999989999,0,0,0,0,0,2026-07-03 10:57:31
+35,Big Boom,Don Frye²,Big Boom,Don Frye²,1,1,1599999984001,0,0,0,0,0,2026-07-03 10:57:34
+36,Banana Brute,Sunflower,Sunflower,Banana Brute,12047678,2,127200080,4719998,0,0,1,0,2026-07-03 10:57:42
+37,Banana Brute,Sunflower,Sunflower,Banana Brute,13817677,2,79499950,2949999,0,0,1,0,2026-07-03 10:58:03
+38,Big Boom,Mr. I Hate Plants All Plants Should Die,Big Boom,Mr. I Hate Plants All Plants Should Die,1,1,999999690000,0,0,0,0,0,2026-07-03 10:58:16
+39,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999996,7,999900000000000,3,2,2,1,0,2026-07-03 10:58:28
+40,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999998,2,1599840000004799,1,0,0,1,0,2026-07-03 10:58:34
+41,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999999000,0,0,0,1,0,2026-07-03 10:58:38
+42,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999900000000000,0,0,0,1,0,2026-07-03 10:58:43
+43,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,4,999899999999000,0,1,1,1,0,2026-07-03 10:58:50
+44,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999998,4,999899999998000,1,1,1,1,0,2026-07-03 10:58:56
+45,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999998,2,999899999999000,1,0,0,1,0,2026-07-03 10:59:01
+46,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999998,2,999899999999000,1,0,0,1,0,2026-07-03 10:59:05
+47,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999999000,0,0,0,1,0,2026-07-03 10:59:09
+48,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999998,2,999899999998000,1,0,0,1,0,2026-07-03 10:59:13
+49,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999998000,0,0,0,1,0,2026-07-03 10:59:17
+50,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999991,2,999900000000000,8,0,0,1,0,2026-07-03 10:59:21
+51,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999996,4,999899999998000,3,1,1,1,0,2026-07-03 10:59:37
+52,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,2,999899999997000,0,0,0,1,0,2026-07-03 10:59:41
+53,Big Boom,Los Buddyachos,Los Buddyachos,Big Boom,999999999999,4,1599839999998400,0,1,1,1,0,2026-07-03 10:59:51
